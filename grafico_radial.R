@@ -1,3 +1,5 @@
+# Source: https://github.com/marckx0/rcode/blob/master/grafico_radial.R
+
 CreateRadialPlot <- function(plot.data,
                              axis.labels=colnames(plot.data)[-1],                             
                              grid.min=-0,  #10,
